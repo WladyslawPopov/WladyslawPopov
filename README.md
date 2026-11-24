@@ -1,4 +1,4 @@
-# Hi, I'm Vladyslav 👋
+**# Hi, I'm Vladyslav 👋
 
 Android developer in Wrocław, Poland. Kotlin since 2020 (full-time since 2023), Compose and Kotlin Multiplatform since 2024.
 
@@ -25,3 +25,4 @@ On Maven Central and used in my production apps. The repo includes a full Androi
 A mid / mid+ Android or Kotlin Multiplatform role in a mobile team, remote or hybrid in Wrocław.
 
 [LinkedIn](https://www.linkedin.com/in/vladyslav-popov-dev)
+**
